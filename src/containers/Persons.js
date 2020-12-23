@@ -4,8 +4,6 @@ import Person from '../components/Person/Person';
 import AddPerson from '../components/AddPerson/AddPerson';
 import * as actionTypes from '../store/actions';
 class Persons extends Component {
-
-
     render () {
         return (
             <div>
